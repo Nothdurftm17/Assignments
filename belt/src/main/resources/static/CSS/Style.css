@@ -1,0 +1,54 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+.indexcontainer{
+	display: flex;
+	justify-content: center;
+	align-content:center;
+	gap: 10px;
+}
+
+.registerBox{
+	height:430px;
+	width: 350px;
+	background-color: lightgray;
+	display:flex;
+	flex-direction:column;
+	align-items: center;
+	border-radius:10px;
+	margin-top:25px;
+}
+
+.register{
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items:center;
+}
+
+.regBut{
+	margin:10px;
+}
+
+.loginBox{
+	height:300px;
+	width: 350px;
+	background-color: lightgray;
+	display:flex;
+	flex-direction:column;
+	align-items: center;
+	border-radius:10px;
+	margin-top:25px;
+}
+
+.login{
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items:center;
+}
+.logBut{
+	margin:10px;
+}
