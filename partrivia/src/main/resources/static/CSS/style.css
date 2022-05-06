@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+*{
+	padding:0px;
+	margin:0px;
+	color:white;
+	font-family: 'Ms Madi', cursive;
+}
+
+body{
+	  background-color: #afedb5;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%230d411b' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.containerLogReg{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	
+}
+
+.parsuit{
+	display:flex;
+}
+.titleLogA{
+	position:relative;
+	display:flex;
+	bottom:240px;
+	right:445px;
+	font-size:80px;
+} 
+.titleLogB{
+	position:relative;
+	display:flex;
+	bottom:240px;
+	right:445px;
+	font-size:80px;
+	color: rgb(86, 170, 86);
+} 
+.register{
+	background-image: url("https://wallpaperaccess.com/full/87085.jpg");
+	height:1100px;
+	width:1000px;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+}
+
+.login{
+	width:900px;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	margin-right:70px;
+	margin-bottom:100px;
+}
+.reg{
+	/* height:100%; */
+	width:500px;
+	background-color: rgba(86, 170, 86,0.7);
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	border-radius:10px;
+	padding-top:10px;
+}
+.regInfo{
+	width: 300px;
+	font-size: 30px;
+}
+
+.logInfo{
+	width: 300px;
+	font-size: 30px;
+}
+
+.font{
+	color: rgb(86, 170, 86);
+}
+
+.dashHead{
+	display:flex;
+	justify-content:space-around;
+	align-items: center;
+	height:80px;
+	font-family: 'Ms Madi', cursive;
+	width:100%;
+	background-color: rgb(86, 170, 86);
+	color:white;
+ 
+}
+.logo{
+	height:75px;
+}
+
+.title{
+	margin-right:300px;
+}
+
+.input{
+  	font-family:'Courier New', Courier, monospace;
+}
+.container{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center
+}
+.welcome{
+	color:rgb(86, 170, 86);
+	display: flex;
+	justify-content: space-around;
+	font-size: 80px;
+	margin-top:50px;
+}
+
+.bodyContentMain{
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	margin-top: 40px;
+	gap:100px; 
+}
+
+.mainImg{
+  height:300px;
+  border-radius: 10px;
+}
+
+.creator{
+  font-family: 'Ms Madi', cursive;
+}
+.mattImg{
+  height:250px;
+  border-radius:10px;
+}
+
+.start{
+	margin-top:70px;
+	height:70px;
+	width:350px;
+	font-size: 30px;
+	    display:flex;
+  justify-content: center;
+  align-items: center;
+	
+}
+.about{
+	margin-top: 50px;
+	margin-bottom:0px;
+	font-size: 50px;
+	height:240px;
+  background-color: rgb(86, 170, 86);
+    display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.topTier{
+	display:flex;
+	margin-top:50px;
+	gap:150px;
+}
+
+.before{
+	font-size: 70px;
+	margin-left:45px;
+}
+.rules{
+	font-size: 50px;
+	margin-left:45px;
+	color:rgb(86, 170, 86);
+}
+.containerStarter{
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:center;
+}
+.goat{
+	color:rgb(86, 170, 86);
+}
+.tiger{
+	height:350px;
+	width:300px;
+	border-radius:10px;
+	margin-top:40px;
+}
+
+.play{
+	font-family:'Courier New', Courier, monospace;
+	margin-top:50px;
+	height:200px;
+	width:500px;
+	font-size:60px;
+}
+.pole{
+	width:50px; 
+	height:400px;
+	background-color: white;
+}
+
+.holeOneContainer{
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	margin-top:50px;
+}
+
+.qBox{
+	height:500px;
+	width: 1000px;
+	background-color: rgb(86, 170, 86);
+	border-radius:10px;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	font-family:'Courier New', Courier, monospace;
+	text-align:center;
+}
+
+.holeNum{
+	font-family:'Courier New', Courier, monospace;
+}
+
+.stat{
+	display:flex;
+	gap:25px;
+}
+
+.stats{
+	font-family:'Courier New', Courier, monospace;
+}
+
+.questionForm{
+	font-family:'Courier New', Courier, monospace;
+}
+
+.qInputs{
+		font-family:'Courier New', Courier, monospace;
+		font-size: 18px;
+}
+
+.qSubmit{
+	margin-top:30px
+}
+
