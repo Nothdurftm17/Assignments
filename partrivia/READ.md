@@ -1,6 +1,6 @@
 WELCOME TO TRIVIALPARSUIT
-This is full-CRUD web application using java.
-TrivialParsuit has features such as: 
+- This is full-CRUD web application using java.
+- TrivialParsuit has features such as: 
 
 - A functioning login and registration with validations
 ![Screen Shot 2022-05-05 at 7 55 07 PM](https://user-images.githubusercontent.com/97467294/167849465-19b4cc86-16c6-47ec-8849-987d6cec006a.png)
